@@ -15,5 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guihlerwe&show_icons=true&theme=dark&locale=en" alt="guihlerwe" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guihlerwe&theme=dark" alt="guihlerwe" /></p>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=63fzakeo0xy39qope7qz0ps7o&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=fafafa&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=63fzakeo0xy39qope7qz0ps7o&redirect=true)
