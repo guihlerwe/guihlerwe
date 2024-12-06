@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guihlerwe&label=Profile%20views&color=grey&style=flat" alt="guihlerwe" /> </p>
 
-- 🌱 I’m currently learning **Java, sql**
 
 - 📫 How to reach me **guiihlerwe@icloud.com**
 
