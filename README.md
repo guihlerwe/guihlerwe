@@ -4,11 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guihlerwe&label=Profile%20views&color=grey&style=flat" alt="guihlerwe" /> </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,sql,portgree,ts)](https://skillicons.dev) </a> </p>
 <p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,sql,git,postgree,mysql,figma,netbeans,vscode" />
   </a>
 </p>  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guihlerwe&show_icons=true&theme=dark&locale=en&layout=compact" alt="guihlerwe" /></p>
