@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,python,git,github,postgres,stackoverflow,figma,notion,vscode" />
   </a>
 </p>  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guihlerwe&show_icons=true&theme=dark&locale=en&layout=large" alt="guihlerwe" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guihlerwe&show_icons=true&theme=dark&locale=en&layout=compact" alt="guihlerwe" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guihlerwe&show_icons=true&theme=dark&locale=en" alt="guihlerwe" /></p>
 <br>
