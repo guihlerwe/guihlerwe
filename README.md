@@ -7,7 +7,7 @@
 <p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,sql,git,github,gitbash,postgres,stackoverflow,figma,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,git,github,gitbash,postgres,stackoverflow,figma,notion,vscode" />
   </a>
 </p>  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guihlerwe&show_icons=true&theme=dark&locale=en&layout=compact" alt="guihlerwe" /></p>
