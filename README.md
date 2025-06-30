@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A passionate developer from 🇧🇷</h3>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools that i've used:</h3>
 <p>
 <p align="center">
   <a href="https://skillicons.dev">
