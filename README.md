@@ -8,7 +8,6 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,git,github,postgres,stackoverflow,figma,notion,vscode" />
   </a>
 </p>  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guihlerwe&show_icons=true&theme=dark&locale=en&layout=compact" alt="guihlerwe" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=guihlerwe&show_icons=true&theme=dark&locale=en" alt="guihlerwe" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guihlerwe&show_icons=true&theme=dark&locale=en&layout=compact" alt="guihlerwe" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guihlerwe&show_icons=true&theme=dark&locale=en" alt="guihlerwe" /> </p>
 <br>
