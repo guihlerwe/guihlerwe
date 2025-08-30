@@ -1,13 +1,37 @@
-<h1 align="left">Hi 👋, I'm Guilherme</h1>
-<h3 align="left">A passionate developer from 🇧🇷</h3>
+# Hi there 👋, I'm Guilherme
 
-<h3 align="left">Languages and Softwares:</h3>
-<p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,git,github,postgres,stackoverflow,figma,notion,vscode" />
-  </a>
-</p>  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guihlerwe&show_icons=true&theme=dark&locale=en&layout=compact" alt="guihlerwe" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guihlerwe&show_icons=true&theme=dark&locale=en" alt="guihlerwe" /> </p>
-<br>
+I'm exploring the world of software development and programming. I like learning new technologies.  
+
+---
+
+## 💻 Programming Languages & Technologies
+- **Java**  
+- **JavaScript**  
+- **HTML & CSS**  
+- **Python**  
+- **SQL**  
+- **TypeScript (basic knowledge)**  
+
+---
+
+## 🛠 Tools & Software
+- **GitHub**  
+- **Visual Studio Code**  
+- **MySQL Workbench**  
+- **Figma**  
+- **Apache NetBeans**  
+
+---
+
+## 🚀 Currently Learning
+- **Swift** using **Swift Playgrounds**  
+
+---
+
+## 🌱 What I’m Interested In RN
+- Tecnology development
+- UI/UX design  
+- Web development  
+
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
