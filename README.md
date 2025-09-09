@@ -4,9 +4,9 @@ I'm currently an **Information Technology Student** at **Instituto Federal Catar
 ## Tech Stack & Skills
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,js,java,html,css,php" />
-### Frameworks & Tools
+#### Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=github,vscode,figma,apache,netbeans,colab" />
-### Databases
+#### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 ## What I'm Currently Learning
