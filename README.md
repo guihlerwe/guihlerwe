@@ -2,11 +2,11 @@
 I'm currently an **Information Technology Student** at **Instituto Federal Catarinense** in Brazil, pursuing my H.S. diploma alongside a technical degree in I.T.
 
 ## Tech Stack & Skills
-###  Programming Languages
+**Programming Languages**
 <img src="https://skillicons.dev/icons?i=python,js,java,html,css,php" />
-###  Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,apache,netbeans" />
-### Databases
+**Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=github,vscode,figma,apache,netbeans,colab" />
+**Databases**
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 ## What I'm Currently Learning
