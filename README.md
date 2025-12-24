@@ -4,13 +4,7 @@ I'm currently an **Information Technology Student** at **Instituto Federal Catar
 ## Tech Stack & Skills
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=java,html,css,php,js,python" />
-#### Frameworks & Tools
+### Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=github,vscode,figma,apache,netbeans,colab" />
-#### Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-
-## What I'm Currently Learning
-- Linear Algebra development w/ Google Colab (phyton)
-- Full-stack web development
-- Object-oriented programming concepts
-- Software engineering best practices
